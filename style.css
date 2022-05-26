@@ -1,0 +1,93 @@
+body {
+    background-color: hsl(217, 54%, 11%);
+  
+    font-family: 'Outfit', sans-serif;
+}
+
+.main-img{
+    width: 86%;
+    border-radius: 3%;
+    margin-top: 7%;
+}
+
+.main{
+    text-align: center;
+    margin-top: 63%;}  
+
+.card{
+    width: 327px;
+    border-radius: 3%;
+    height: 600px;
+    margin: 0 auto;
+    background: hsl(216, 50%, 16%);
+}
+
+
+    .h3 {text-align: start;
+    margin-left: 8%;
+    color: #fff;
+    }
+
+.p{
+    margin-left: 8%;
+    font-size: 18px;
+    text-align: initial;
+    font-weight: 300;
+    color: hsl(215, 51%, 70%);
+}
+
+.p-2{
+    text-align: initial;
+    justify-content: space-between;    display: inline;
+    margin-left: 8%;
+    color: hsl(178, 100%, 50%);
+
+}
+
+.p-3{
+    display: initial;
+    margin-left: 31%;
+    padding-right: 11px;
+color: hsl(215, 51%, 70%);}
+
+.p-4{
+    margin-top: 33px;
+    display: inline-flex;
+    color: hsl(215, 51%, 70%);
+    text-align: initial;
+    margin-left:  9%;
+    font-size: 18px;
+
+
+}
+
+
+.icon-1{
+    margin-right: 4px;
+    margin-bottom: -2px;}
+
+.icon-2{
+    margin-bottom: -3px;
+}
+
+.hr{
+    background-color: hsl(215, 32%, 27%);
+    width: 87%;
+    margin-top: 6%;
+    border:none;
+    height: 1px;
+}
+
+.nestor{
+    padding-top: 3px;
+    display: inline-flex;
+    margin-right: 5%;
+    margin-top: -10px;
+    width: 12%;
+    border-radius: 54%;
+}
+
+span{
+    color: #fff;
+    margin-left: 4px;
+}
